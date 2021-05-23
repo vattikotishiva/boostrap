@@ -1,0 +1,26 @@
+#slider{
+	background: orange;
+	padding: 10px 0px 10px 10px;
+}
+
+#header {
+	background: blue;
+	padding: 3px 0;
+}
+#header ul{
+	margin: 0;
+}
+#content{
+	background: green;
+}
+#left{
+	background: red;
+}
+
+#footer{
+	background: grey;
+}
+
+#header ul li{
+	display: inline-block;
+}

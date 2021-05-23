@@ -1,0 +1,37 @@
+#header{
+	background: #3498db;
+}
+.title{
+	font-size: 2rem;
+	margin-top: 5px;
+	font-style: Serif;
+}
+#menu{
+	margin-top: 15px;
+}
+#menu li{
+	display: inline-block;
+}
+
+#menu li a{
+	text-decoration: none;
+	color: #ecf0f1;
+	padding: 5px 5px;
+}
+
+#menu li a:hover{
+	background: #2980b9;
+
+	}
+
+
+
+#banner{
+	background-image: url('image1.jpg');
+	background-size: cover;	
+
+}
+
+.title-banner{
+	color: #fff;
+}
